@@ -1,0 +1,40 @@
+..\OBJ\main.o: main.c
+..\OBJ\main.o: ..\HARDWARE\LED\led.h
+..\OBJ\main.o: ..\SYSTEM\sys\sys.h
+..\OBJ\main.o: ..\USER\stm32f10x.h
+..\OBJ\main.o: ..\CORE\core_cm3.h
+..\OBJ\main.o: E:\keil v4 for arm\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\main.o: ..\USER\system_stm32f10x.h
+..\OBJ\main.o: ..\USER\stm32f10x_conf.h
+..\OBJ\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\OBJ\main.o: ..\USER\stm32f10x.h
+..\OBJ\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\OBJ\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\OBJ\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\OBJ\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\main.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\main.o: ..\SYSTEM\delay\delay.h
+..\OBJ\main.o: ..\SYSTEM\usart\usart.h
+..\OBJ\main.o: E:\keil v4 for arm\ARM\ARMCC\bin\..\include\stdio.h
+..\OBJ\main.o: ..\HARDWARE\FLASH\flash.h
+..\OBJ\main.o: ..\HARDWARE\SRAM\sram.h
+..\OBJ\main.o: ..\MALLOC\malloc.h
+..\OBJ\main.o: ..\HARDWARE\SD\mmc_sd.h
+..\OBJ\main.o: ..\FATFS\src\ff.h
+..\OBJ\main.o: ..\FATFS\src\integer.h
+..\OBJ\main.o: ..\FATFS\src\ffconf.h
+..\OBJ\main.o: ..\FATFS\exfuns\exfuns.h
+..\OBJ\main.o: ..\PICTURE\piclib.h
+..\OBJ\main.o: ..\HARDWARE\LCD\lcd.h
+..\OBJ\main.o: E:\keil v4 for arm\ARM\ARMCC\bin\..\include\stdlib.h
+..\OBJ\main.o: ..\PICTURE\bmp.h
+..\OBJ\main.o: ..\PICTURE\tjpgd.h
+..\OBJ\main.o: ..\PICTURE\integer.h
+..\OBJ\main.o: ..\PICTURE\gif.h
+..\OBJ\main.o: ..\FATFS\exfuns\fattester.h
+..\OBJ\main.o: ..\HARDWARE\VS10XX\vs10xx.h
+..\OBJ\main.o: ..\APP\mp3player.h
+..\OBJ\main.o: ..\HARDWARE\AUDIOSEL\audiosel.h
+..\OBJ\main.o: ..\APP\recorder.h

@@ -1,0 +1,21 @@
+..\OBJ\diskio.o: ..\FATFS\src\diskio.c
+..\OBJ\diskio.o: ..\HARDWARE\SD\mmc_sd.h
+..\OBJ\diskio.o: ..\SYSTEM\sys\sys.h
+..\OBJ\diskio.o: ..\USER\stm32f10x.h
+..\OBJ\diskio.o: ..\CORE\core_cm3.h
+..\OBJ\diskio.o: E:\keil v4 for arm\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\diskio.o: ..\USER\system_stm32f10x.h
+..\OBJ\diskio.o: ..\USER\stm32f10x_conf.h
+..\OBJ\diskio.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\OBJ\diskio.o: ..\USER\stm32f10x.h
+..\OBJ\diskio.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\OBJ\diskio.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\diskio.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\diskio.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\OBJ\diskio.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\OBJ\diskio.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\diskio.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\diskio.o: ..\FATFS\src\diskio.h
+..\OBJ\diskio.o: ..\FATFS\src\integer.h
+..\OBJ\diskio.o: ..\HARDWARE\FLASH\flash.h
+..\OBJ\diskio.o: ..\MALLOC\malloc.h
